@@ -1,1 +1,1 @@
-edited part of CS231n assignment 1
+my solution to assignment1
